@@ -19,7 +19,7 @@ This repository contains the Jupyter Notebook for the Application Assignment 5.1
 The notebooks are grouped into the following categories:
  * ``data`` – coupons.csv Data files used in the example notebooks.
  * ``images`` – Jupyter and IPython setup / configuration.
- * ``notebooks`` – Customers Driving Coupons Acceptance Notebook Jupyter Notebook.
+ * ``notebook`` – Customers Driving Coupons Acceptance Notebook Jupyter Notebook.
 
 
 ## License
