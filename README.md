@@ -5,21 +5,20 @@ GitHub Repository for work done on Professional Certificate in Machine Learning 
 
 **Contents**
 
- * [What is this?](#what-is-this)
+ * [Introduction](#Introduction)
  * [How to use the files in this repository?](#how-to-use-the-files-in-this-repository)
- * [Links](#links)
  * [License](#license)
  
-## What is this?
+## Introduction
 
-This repository contains the Jupyter Notebook for the Application Assignment 5.1 going through sample jupyter notebook  to analyse data in <coupons.csv> file in the data folder to determine the features that indicate whether a Driver will accept coupons “right away” or “later before the coupon expires” 
+This repository contains the Jupyter Notebook for the Application Assignment 5.1. This takes a sample jupyter notebook to complete the exercise to analyse data in [coupons.csv](https://github.com/yemifalokun/mlrepowork/blob/main/data/coupons.csv) file in the data folder of this repository to determine the features that indicate whether a Driver will accept coupons “right away” or “later before the coupon expires”.
 
 ## How to use the files in this repository?
 
 The notebooks are grouped into the following categories:
- * ``data`` – coupons.csv Data files used in the example notebooks.
+ * ``data`` – coupons.csv data file from UCI Machine Learning repository used in the notebooks.
  * ``images`` – Jupyter and IPython setup / configuration.
- * ``notebook`` – Customers Driving Coupons Acceptance Notebook Jupyter Notebook.
+ * ``notebook`` – Customers Driving Coupons Acceptance Jupyter Notebook.
 
 
 ## License
